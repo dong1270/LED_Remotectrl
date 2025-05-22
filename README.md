@@ -5,9 +5,9 @@
 
 ### Demo
 <!-- ![start page](./img/IMG_3726.PNG) -->
-<p> 
-    <img src="./img/IMG_3726.PNG" width="350" height="800"/> 
-</p>
+<img src="./img/IMG_3726.PNG" width="350" height="800"/> 
+<br/>
+
 Design: [Figma Link](https://www.figma.com/proto/KW2mEczV87qqs2WHGGo9h1/Home-IoT?node-id=0-1&t=6QIobv1OtI4QVHdm-1)
 
 ### Environment
